@@ -1,4 +1,4 @@
-Porosity,Young Modulus,Ultimate Strength,Fracture Strain,YM,YStress,FStress,FStrain,Toughness,StrainRate
+Porosity,Young Modulus,Ultimate Strength,Fracture Strain,YM,Yield Strength,Fracture Strength,FStrain,Toughness,Strain Rate
 56.7738,2900,73,12.3,257.0817,11.9741,12.9773,8.1624,0.6805,0.004906713
 61.2289,2900,73,12.3,215.011,9.9764,10.6539,8.0407,0.56,0.004906312
 64.6604,2900,73,12.3,179.1222,8.043,8.6174,10.0806,0.6289,0.004905063
